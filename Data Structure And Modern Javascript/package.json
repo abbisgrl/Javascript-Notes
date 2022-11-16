@@ -1,0 +1,14 @@
+{
+  "name": "data-structure-and-modern-javascript",
+  "version": "1.0.0",
+  "description": "Learning the important things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Gyanendra Shah",
+  "license": "ISC"
+}
